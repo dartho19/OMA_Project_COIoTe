@@ -1,0 +1,7 @@
+#file ignored by git
+
+*.txt
+out
+.idea
+*.iml
+*.csv
